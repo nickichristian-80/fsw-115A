@@ -1,0 +1,73 @@
+{
+    "Menu": [{},
+        "Cold Sandwich",
+        {
+            "name": "Turkey Club",
+            "inside": "mayo, mustard, smoked turkey, provolone cheese, lettuce, tomato",
+            "description":[ "this is your Mom's Turkey Sandwich" ]
+
+        },
+        {
+            "name": "The Brat",
+            "inside": "cajin mayo, spicy mustard, smoked turkey, smoked ham, bacon, munster cheese, lettuce, tomato",
+            "description":[ "this is your Down South Neighbors' Sandwich that won't stop kicking" ]
+    
+        },
+        "Hot Sandwich",
+        {
+            "name": "King Cheese",
+            "inside": "miracle-whip, sharp cheddar, smoked gouda, baby swiss, butter",
+            "description":[ "this is the Grill Cheese you will slap yourself for" ]
+    
+        },
+        {
+            "name": "The Mama-Mia",
+            "inside": "homemade meatballs, provolone cheese, motzarella cheese, homemade marinara",
+            "description":[ "this is the sandwich that makes you wish you had an Italian grandmother" ]
+    
+        },
+        "Appetizers",
+        {
+            "name": "Chips and Salsa",
+            "inside": "homemade salsa with cilantro with a mild kick",
+            "description":[ "this is your conversation starter" ]
+    
+        },
+        {
+            "name": "Moo Sticks",
+            "inside": "homemade motzarella, with a panco breading, with a side a marinara",
+            "description":[ "these are the big MOO around town" ]
+    
+        },
+        "Drinks",
+        {
+            "name": "Soda",
+            "inside": "Pepsi, Dr.Pepper, Sprite, Sunkist",
+            "description":[ "The drink to make your kids bounce off the walls" ]
+    
+        },
+        {
+            "name": "Mommy Juice",
+            "inside": "White Wine, Red Wine, Straight Shot of Tequila, Maker on the Rocks",
+            "description":[ "The cure to Quarintine" ]
+    
+        },
+        "Deserts",
+        {
+            "name": "Mud Puddle",
+            "inside": "homemade chocolate ice cream over a chocolate lava cake",
+            "description":[ "did someone say Wilford Brimley called about Diabetus " ]
+    
+        },
+        {
+            "name": "Mile High Cheesecake",
+            "inside": "homemade 3 inch thick slice of Cheesecake served with a side of hot fudge and carmel drizzle",
+            "description":[ "Decadence never tasted so good" ]
+    
+        }
+            
+        
+
+
+    ]
+    }
