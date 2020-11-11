@@ -1,0 +1,40 @@
+html {
+    text-align: center;
+    font-family: 'Barriecito', cursive;
+    color: rgb(70, 182, 148);
+    background-color: rgb(87, 22, 71);
+}
+
+header {
+    font-size: 20px;
+    margin-bottom: 80px;
+    text-shadow: 3px 3px 3px lightblue;
+}
+
+
+#info {
+    margin-top: 100px;
+}
+
+@media only screen and (min-width: 600px) { 
+
+html {
+    font-size: 20px;
+}
+
+header {
+    font-size: 20px;
+}
+
+}
+
+@media only screen and (min-width: 1024px) { 
+
+html {
+    font-size: 20px;
+}
+    
+header {
+    font-size: 35px;
+}
+}

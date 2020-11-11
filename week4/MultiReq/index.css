@@ -1,0 +1,43 @@
+* {
+    text-align: center;
+    font-family: 'Mountains of Christmas', cursive;
+    font-family: 'Zilla Slab Highlight', cursive;
+    font-family: 'Barriecito', cursive;
+    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Viga', sans-serif;
+}
+
+html {
+    background-color: black;
+}
+
+nav {
+    grid-column: 1/-1;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav > a {
+    color: #cbc963;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: #202202;
+    padding: 10px;
+}
+
+header {
+    color: whitesmoke;
+    text-shadow: 4px 4px 4px black;
+    font-size: 28px;
+    background-image: url("https://www.etonline.com/sites/default/files/images/2020-04/1280theoffice_getty.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+div {
+    color: #6d7752;
+
+}

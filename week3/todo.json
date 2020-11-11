@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Hope this works",
+        "description": "Please",
+        "price": 250,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQn7VBWY9gDeF84t9hsQhVnrqJODMyqNQkGNw&usqp=CAU",
+        "completed": false
+    },
+    {
+        "title": "Is 2020 over yet?",
+        "description": "Dreaming of vacation",
+        "price": 500,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8KPXmQbm0kdR9XsjF9Q0A1S84IZXcZ8OeVQ&usqp=CAU",
+        "completed": true
+},
+
+    {
+        "title": "HairColor",
+        "description": "I loved doing Color",
+        "price": 100,
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSL5Mjk9d7zR-mpAGMaq59gawp-KDGVJP37Vw&usqp=CAU",
+        "completed": true
+    }
+
+]
