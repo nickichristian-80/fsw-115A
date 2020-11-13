@@ -1,0 +1,66 @@
+body {
+    font-family: 'Georgia';
+    background-color: #93ffb1;
+}
+
+.header {
+    background-color: #ff57c7;
+    border: thick solid rgb(142, 24, 172);
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+    margin-left: 50px;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    background-color: rgb(96, 248, 241);
+}
+
+input:hover {
+    box-shadow: 4px 5px 7px rgb(96, 248, 241);
+}
+
+.submitButton {
+    border-radius: 5px;
+    background-color: rgb rgb(96, 248, 241);
+    margin: 10px;
+    font-family: 'Georgia', serif;
+}
+
+.submitButton:hover {
+    box-shadow: 3px 4px 10px silver;
+}
+
+.todo-complete {
+    text-decoration: line-through solid black;
+}
+
+#todoList {
+    border: thick solid black;
+    background-color:  rgb(96, 248, 241);
+    margin: 45px;
+}
+
+i {
+    padding: 3px;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    text-transform: capitalize;
+    padding: 15px;
+    margin: 15px;
+}
+
+p:hover {
+    text-decoration: underline black;
+}
